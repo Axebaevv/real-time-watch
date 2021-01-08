@@ -8,4 +8,4 @@
 
 ### Here is the the image of this project
 
-[Image of the code](img-of-result.png)
+![Image of the code](img-of-result.png)
